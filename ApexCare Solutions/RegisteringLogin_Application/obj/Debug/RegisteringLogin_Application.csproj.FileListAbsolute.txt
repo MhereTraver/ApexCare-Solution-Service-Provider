@@ -1,0 +1,12 @@
+C:\Users\mhere\Desktop\SEN\RegisteringLogin_Application\RegisteringLogin_Application\bin\Debug\RegisteringLogin_Application.exe.config
+C:\Users\mhere\Desktop\SEN\RegisteringLogin_Application\RegisteringLogin_Application\bin\Debug\RegisteringLogin_Application.exe
+C:\Users\mhere\Desktop\SEN\RegisteringLogin_Application\RegisteringLogin_Application\bin\Debug\RegisteringLogin_Application.pdb
+C:\Users\mhere\Desktop\SEN\RegisteringLogin_Application\RegisteringLogin_Application\obj\Debug\RegisteringLogin_Application.csproj.AssemblyReference.cache
+C:\Users\mhere\Desktop\SEN\RegisteringLogin_Application\RegisteringLogin_Application\obj\Debug\RegisteringLogin_Application.Form1.resources
+C:\Users\mhere\Desktop\SEN\RegisteringLogin_Application\RegisteringLogin_Application\obj\Debug\RegisteringLogin_Application.Properties.Resources.resources
+C:\Users\mhere\Desktop\SEN\RegisteringLogin_Application\RegisteringLogin_Application\obj\Debug\RegisteringLogin_Application.csproj.GenerateResource.cache
+C:\Users\mhere\Desktop\SEN\RegisteringLogin_Application\RegisteringLogin_Application\obj\Debug\RegisteringLogin_Application.csproj.CoreCompileInputs.cache
+C:\Users\mhere\Desktop\SEN\RegisteringLogin_Application\RegisteringLogin_Application\obj\Debug\RegisteringLogin_Application.exe
+C:\Users\mhere\Desktop\SEN\RegisteringLogin_Application\RegisteringLogin_Application\obj\Debug\RegisteringLogin_Application.pdb
+C:\Users\mhere\Desktop\SEN\RegisteringLogin_Application\RegisteringLogin_Application\obj\Debug\RegisteringLogin_Application.Register.resources
+C:\Users\mhere\Desktop\SEN\RegisteringLogin_Application\RegisteringLogin_Application\obj\Debug\RegisteringLogin_Application.PresentationLayer.Home.resources
